@@ -1,1 +1,5 @@
 firey end down pointy end up
+explosions
+10
+9
+8
